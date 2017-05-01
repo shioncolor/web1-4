@@ -2,7 +2,7 @@
 body{
     background-color: #fbf9cc;
     background-image; url(../img/patrickkramer01.jpg);
-     background-repeat; repeat-x;
+     background-repeat; no-repeat;
 }
 h1{
     font-size: 1.75em;
