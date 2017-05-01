@@ -1,6 +1,8 @@
 @charset "UTF-8"; 
 body{
     background-color: #fbf9cc;
+    background-image; url(../img/weed-2.gif);
+     background-repeat; repeat-x;
 }
 h1{
     font-size: 1.75em;
