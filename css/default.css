@@ -25,3 +25,8 @@ h1 span{
 ….
     text-align: center;
 }
+p. greeting{
+    border-top: #6fbb9a 1px dotted;
+….
+    text-align: center;
+}
